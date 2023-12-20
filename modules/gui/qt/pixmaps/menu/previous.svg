@@ -1,8 +1,1 @@
-<svg viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
-  <g fill="#747474">
-    <path d="M42 36V12L27 24z" fill-rule="evenodd"/>
-    <path d="M28 36V12L13 24z" fill-rule="evenodd"/>
-    <rect x="6" y="12" width="8" height="24" ry="0"/>
-  </g>
-</svg>
-
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48"><g fill="#747474"><path fill-rule="evenodd" d="M42 36V12L27 24z"/><path fill-rule="evenodd" d="M28 36V12L13 24z"/><rect width="8" height="24" x="6" y="12" ry="0"/></g></svg>
